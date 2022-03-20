@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+一个nextjs例子，演示 
+1. 127.0.0.1:2028/news 页面动态路由参数
+2. 127.0.0.1:2028/todo 父子组件传递方法
 ## Getting Started
 
 First, run the development server:
